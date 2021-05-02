@@ -1,0 +1,44 @@
+NanoPi NEO Air has been tested to work with FreeBSD 13
+
+============================================================
+
+What is a NanoPi NEO Air?
+-------------------------
+
+The NanoPi NEO Air is a 32-bit Quad-core Cortex-A7 single
+board computer created by FriendlyElec.
+
+Details can be found at:
+   http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO_Air
+
+You boot it from a MicroSDHC card with the system image.
+
+Once you have the device working, you can expand it by
+updating the 8GB eMMC using dd from an external device, or
+attach microcontrollers to GPIO connectors on the board.
+
+ATTENTION:
+   SDIO support requires the GENERIC-MMCCAM kernel config.
+
+   https://wiki.freebsd.org/SDIO
+
+============================================================
+
+Booting the device
+------------------
+
+1. Insert a microSD card with this generated image.
+
+2. Power on the board by connecting to a MicroUSB cable.
+
+3. Connect using a USB to TTL Serial Cable (115200 8N1)
+
+============================================================
+
+Flashing the eMMC (CAVEAT)
+--------------------------
+
+Since you cannot update the eMMC from a running microSD you
+will need to attach an external hard disk that runs the
+generated image. This can be achieved using a 1-bay NAS Dock
+that can be purchased from the FriendlyElec website.

@@ -48,7 +48,7 @@ You can browse the FreeBSD port collection at https://www.freshports.org.
 * [Chromebook Snow](https://web.archive.org/web/20150316194054/http://www.samsung.com/ca/consumer/office/chrome-devices/chromebooks/XE303C12-A01CA)
 * [Cubieboard](http://cubieboard.org/)
 * [OrangePi](http://www.orangepi.org)
-* [NanoPi-NEO](https://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO) and [NanoPi-NEO2](https://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO2)
+* [NanoPi-NEO](https://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO), [NanoPi-NEO2](https://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO2), and [NanoPi-NEO-Air](https://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO_Air)
 * [PandaBoard](http://pandaboard.org/)
 * [Pine64](https://www.pine64.org/)
 * [RaspberryPi and RaspberryPi 2](http://www.raspberrypi.org/)
